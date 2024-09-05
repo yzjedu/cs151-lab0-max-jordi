@@ -1,0 +1,6 @@
+print("CS151 Lab 0")
+print("My partners name is Max")
+print("He is from Wilmette,Illinois")
+print("Max has three siblings and is the youngest")
+print("He has two dogs and a fish he takes care of")
+print("Max is on the Loyola Swimming Team")
